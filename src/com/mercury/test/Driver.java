@@ -16,8 +16,8 @@ public class Driver {
 		//m1.SikuliPractice();	
 		//m1.AutoItPractice();
 		//m1.verifyLogin();
-		m1.frameHandling();
-				
+		//m1.frameHandling();
+		//This is Suman
 	}
 
 }
